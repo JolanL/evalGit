@@ -9,6 +9,7 @@ if ('identification' === $_GET['page']
 
     header('Location: index.php');
 }
+//coucou
 require 'include/connexion.php';
 ?>
 <!DOCTYPE html>
